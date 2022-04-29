@@ -29,13 +29,13 @@ const appConfig: IAppConfig = {
         path: '/seller',
         title: '商家平台',
         loadScriptMode: 'import',
-        // React 
+        // React  对应 icestark-react-child 项目
         entry: 'http://localhost:3334/',
       }, {
         path: '/waiter',
         title: '小二平台',
         loadScriptMode: 'import',
-        // Vue
+        // Vue  对应 icestark-vue-child 项目
         entry: 'http://localhost:3000/',
       }, {
         path: '/angular',
