@@ -8,6 +8,9 @@
 
 `icestark-vue-child`：Vue子应用
 
+环境
+node版本：16.14.2
+
 主应用路由配置
 
 ```javascript
